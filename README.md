@@ -1,2 +1,2 @@
 # TicTacToe
-My first js project
+Human Vs Bot
